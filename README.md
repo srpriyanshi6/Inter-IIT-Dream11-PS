@@ -10,3 +10,5 @@
    ```bash
    pip install -r requirements.txt
    ```
+### Or
+Open the notebook using google colab
